@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.instagram.com/fiz_zz/" target="_blank"><img src="public/img/logo.png" width="300" alt="uag Logo"></a></p>
+<p align="center"><a href="https://www.instagram.com/fiz_zz/" target="_blank"><img src="public/img/uag.png" width="300" alt="uag Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
